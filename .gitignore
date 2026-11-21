@@ -1,0 +1,28 @@
+# File brainstorming coret-coretan lokal
+brainstorming/000_brainstorming.cpp
+
+# Catatan lokal
+docs/
+
+# Hasil kompilasi C/C++ dan debug symbols
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.so
+*.dylib
+build/
+**/build/
+cmake-build-*/
+
+# Konfigurasi editor dan file sementara
+.vscode/
+tempCodeRunnerFile.*
+*.tmp
+desktop.ini
